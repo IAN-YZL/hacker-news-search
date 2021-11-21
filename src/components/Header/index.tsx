@@ -13,7 +13,7 @@ const HeaderLayout = styled.div`
 	height: 60px;
 	padding: 15px;
 	border-radius: 5px;
-	margin: 1px;
+	margin: 2px;
 `;
 
 const HeaderTitle = styled.div`
