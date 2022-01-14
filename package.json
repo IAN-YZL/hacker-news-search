@@ -51,6 +51,8 @@
   "devDependencies": {
     "@types/lodash": "^4.14.165",
     "@types/styled-components": "^5.1.4",
-    "eslint-plugin-cypress": "^2.11.2"
-  }
+    "eslint-plugin-cypress": "^2.11.2",
+    "gh-pages": "^3.2.3"
+  },
+  "homepage": "http://ian-yzl.github.io/tax-calculator"
 }
