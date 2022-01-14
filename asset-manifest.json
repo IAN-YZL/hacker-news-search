@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/tax-calculator/static/js/main.04fdeadf.chunk.js",
+    "main.js.map": "/tax-calculator/static/js/main.04fdeadf.chunk.js.map",
+    "runtime-main.js": "/tax-calculator/static/js/runtime-main.098a9805.js",
+    "runtime-main.js.map": "/tax-calculator/static/js/runtime-main.098a9805.js.map",
+    "static/css/2.f3081fb4.chunk.css": "/tax-calculator/static/css/2.f3081fb4.chunk.css",
+    "static/js/2.e9c2d5e4.chunk.js": "/tax-calculator/static/js/2.e9c2d5e4.chunk.js",
+    "static/js/2.e9c2d5e4.chunk.js.map": "/tax-calculator/static/js/2.e9c2d5e4.chunk.js.map",
+    "index.html": "/tax-calculator/index.html",
+    "static/css/2.f3081fb4.chunk.css.map": "/tax-calculator/static/css/2.f3081fb4.chunk.css.map",
+    "static/js/2.e9c2d5e4.chunk.js.LICENSE.txt": "/tax-calculator/static/js/2.e9c2d5e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.098a9805.js",
+    "static/css/2.f3081fb4.chunk.css",
+    "static/js/2.e9c2d5e4.chunk.js",
+    "static/js/main.04fdeadf.chunk.js"
+  ]
+}
